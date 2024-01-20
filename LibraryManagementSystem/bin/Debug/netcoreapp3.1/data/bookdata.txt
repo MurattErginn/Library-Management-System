@@ -1,0 +1,11 @@
+The Great Gatsby,F. Scott Fitzgerald,ISBN-1,100,0
+To Kill a Mockingbird,Harper Lee,ISBN-2,150,0
+1984,George Orwell,ISBN-3,120,0
+Pride and Prejudice,Jane Austen,ISBN-4,80,0
+The Catcher in the Rye,J.D. Salinger,ISBN-5,200,0
+To the Lighthouse,Virginia Woolf,ISBN-6,90,0
+The Hobbit,J.R.R. Tolkien,ISBN-7,110,0
+The Chronicles of Narnia,C.S. Lewis,ISBN-8,130,0
+Brave New World,Aldous Huxley,ISBN-9,95,0
+The Odyssey,Homer,ISBN-10,180,0
+1985,George Orwell,ISBN-11,129,1

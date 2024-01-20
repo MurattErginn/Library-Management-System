@@ -1,0 +1,14 @@
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.exe
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.deps.json
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.runtimeconfig.json
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.runtimeconfig.dev.json
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.dll
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.pdb
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.dll
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.pdb
+C:\Users\Murat\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.genruntimeconfig.cache
